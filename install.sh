@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/zsh
 
 sudo rm /Library/Preferences/com.apple.print.customp* 
 rm ~/Library/Preferences/com.apple.print.customp*
