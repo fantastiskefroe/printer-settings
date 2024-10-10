@@ -9,5 +9,3 @@ curl "https://github.com/fantastiskefroe/printer-settings/raw/main/com.apple.pri
 # This doesn't seem to be necessary
 # sudo cp com.apple.print.custompapers.plist /Library/Preferences
 # sudo cp com.apple.print.custompresets.plist /Library/Preferences
-
-
